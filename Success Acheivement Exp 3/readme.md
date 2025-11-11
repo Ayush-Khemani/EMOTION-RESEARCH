@@ -10,7 +10,7 @@ This experiment evaluates three different approaches to integrating emotion dete
 | Property | Value |
 |----------|-------|
 | **Scenario** | Achievement Success (Mixed Emotions) |
-| **Date Conducted** | [INSERT DATE] |
+| **Date Conducted** | [11-11-2025] |
 | **Total Turns** | 25 |
 | **Modes Tested** | 3 |
 | **Emotion Models** | Hugging Face BERT + IBM Watson NLU |
