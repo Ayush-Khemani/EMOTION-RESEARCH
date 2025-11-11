@@ -1,0 +1,23 @@
+{
+  "scenario": "Health Crisis",
+  "date": "2025-11-12T00:51:34.871535",
+  "total_turns": 25,
+  "total_api_cost": 0.021932999999999998,
+  "total_tokens": 124603,
+  "experiment_duration_seconds": 234.2942349910736,
+  "1\ufe0f\u20e3_turns": 25,
+  "1\ufe0f\u20e3_agreement": 40.0,
+  "1\ufe0f\u20e3_avg_confidence": 0.7361093167007446,
+  "1\ufe0f\u20e3_total_tokens": 38667,
+  "1\ufe0f\u20e3_total_cost": 0.006784,
+  "2\ufe0f\u20e3_turns": 25,
+  "2\ufe0f\u20e3_agreement": 40.0,
+  "2\ufe0f\u20e3_avg_confidence": 0.7361093167007446,
+  "2\ufe0f\u20e3_total_tokens": 48520,
+  "2\ufe0f\u20e3_total_cost": 0.008582,
+  "3\ufe0f\u20e3_turns": 25,
+  "3\ufe0f\u20e3_agreement": 40.0,
+  "3\ufe0f\u20e3_avg_confidence": 0.7361093167007446,
+  "3\ufe0f\u20e3_total_tokens": 37416,
+  "3\ufe0f\u20e3_total_cost": 0.006567000000000001
+}
