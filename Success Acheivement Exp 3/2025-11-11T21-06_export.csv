@@ -1,0 +1,4 @@
+﻿mode,<lambda>,mean,std
+1️⃣ Rule → LLM (Emotion label only),4,0.746,0.107
+2️⃣ Array → LLM (Full emotion vector),4,0.746,0.107
+3️⃣ LLM Only (No rule-based input),4,0.746,0.107

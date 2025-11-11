@@ -1,0 +1,4 @@
+﻿,Mode,Total Turns,Unique Emotions,Most Common,Avg Confidence,HF-IBM Agreement,Confidence Std Dev
+0,1️⃣ Rule → LLM (Emotion label only),25,4,joy,0.746,28.0%,0.107
+1,2️⃣ Array → LLM (Full emotion vector),25,4,joy,0.746,28.0%,0.107
+2,3️⃣ LLM Only (No rule-based input),25,4,joy,0.746,28.0%,0.107

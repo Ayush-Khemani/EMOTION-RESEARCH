@@ -1,0 +1,4 @@
+﻿mode,anger,fear,joy,sadness
+1️⃣ Rule → LLM (Emotion label only),2,5,15,3
+2️⃣ Array → LLM (Full emotion vector),2,5,15,3
+3️⃣ LLM Only (No rule-based input),2,5,15,3
