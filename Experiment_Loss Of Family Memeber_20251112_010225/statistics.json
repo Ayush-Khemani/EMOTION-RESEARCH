@@ -1,0 +1,23 @@
+{
+  "scenario": "Loss Of Family Memeber",
+  "date": "2025-11-12T01:07:54.490882",
+  "total_turns": 26,
+  "total_api_cost": 0.024696000000000003,
+  "total_tokens": 141211,
+  "experiment_duration_seconds": 269.5805768966675,
+  "1\ufe0f\u20e3_turns": 26,
+  "1\ufe0f\u20e3_agreement": 53.84615384615385,
+  "1\ufe0f\u20e3_avg_confidence": 0.7704090394731374,
+  "1\ufe0f\u20e3_total_tokens": 43899,
+  "1\ufe0f\u20e3_total_cost": 0.007659999999999999,
+  "2\ufe0f\u20e3_turns": 26,
+  "2\ufe0f\u20e3_agreement": 53.84615384615385,
+  "2\ufe0f\u20e3_avg_confidence": 0.7704090394731374,
+  "2\ufe0f\u20e3_total_tokens": 56542,
+  "2\ufe0f\u20e3_total_cost": 0.009938000000000002,
+  "3\ufe0f\u20e3_turns": 26,
+  "3\ufe0f\u20e3_agreement": 53.84615384615385,
+  "3\ufe0f\u20e3_avg_confidence": 0.7704090394731374,
+  "3\ufe0f\u20e3_total_tokens": 40770,
+  "3\ufe0f\u20e3_total_cost": 0.007098
+}
